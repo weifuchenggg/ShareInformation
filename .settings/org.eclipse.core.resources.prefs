@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/pages/student/editPersonInfo.jsp=UTF-8
+encoding//WebRoot/WEB-INF/pages/student/queryPersonInfo.jsp=UTF-8
+encoding//WebRoot/WEB-INF/pages/teacher/teditPersonInfo.jsp=UTF-8
+encoding//WebRoot/WEB-INF/pages/teacher/tqueryPersonInfo.jsp=UTF-8
